@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nitin Kumar
+#  Hi, I'm Nitin Kumar
 
 ###  Data Analyst & AI Enthusiast
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 > *Analytical Data Analyst with strong foundation in SQL, Python, Excel, and Power BI, with basic working knowledge of Android development (Java/Kotlin, Android Studio). Experienced in transforming data into actionable insights and developing data-enabled mobile applications in collaborative, agile environments.*
 
