@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nitin Kumar
 
-### 📊 Data Analyst & AI Enthusiast
+###  Data Analyst & AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+AI+Enthusiast;Power+BI+%7C+Python+%7C+SQL+Expert;Turning+Data+into+Actionable+Insights;B.Tech+CSE+%40+Tula's+Institute" alt="Typing SVG" />
 
