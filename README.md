@@ -72,30 +72,6 @@
 
 ---
 
-### 🏆 Job Simulations
-
-| Company | Program | Period |
-|---------|---------|--------|
-| 🏦 **Tata** | GenAI-Powered Data Analytics Job Simulation | Jul 2025 |
-| 🌏 **Deloitte Australia** | Data Analytics Job Simulation | Jun 2025 |
-
----
-
-## 🎓 Education
-
-```
-📚 B.Tech – Computer Science & Engineering
-   Tula's Institute, Dehradun               Sep 2022 – Jun 2026
-
-🎓 Diploma – Electrician
-   Govt. ITI Boy's, Dehradun                Aug 2020 – Jun 2022
-
-🏫 Sr. Secondary & Secondary (CBSE)
-   Jimp Pioneer School, Dehradun            Apr 2017 – Jun 2020
-```
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -206,12 +182,6 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nitinsaini26&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Nitin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinsaini26&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
