@@ -53,7 +53,6 @@
 
 ### 🗂️ Data Handling
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🧠 Analytical Abilities
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6B6B?style=flat-square&logoColor=white)
