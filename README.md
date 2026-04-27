@@ -160,13 +160,19 @@
 
 ## 🚀 Featured Projects
 
+> 📌 *Pin your best repositories on your [GitHub profile](https://github.com/nitinsaini26) to showcase them here. Replace the example cards below with your actual project repositories.*
+
 <div align="center">
 
-[![Profile README](https://github-readme-stats.vercel.app/api/pin/?username=nitinsaini26&repo=nitinsaini26&theme=tokyonight&hide_border=true)](https://github.com/nitinsaini26/nitinsaini26)
+<!-- Replace `your-repo-name` with your actual repository names -->
+<!-- Example:
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=nitinsaini26&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/nitinsaini26/your-repo-name)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=nitinsaini26&repo=your-repo-name-2&theme=tokyonight&hide_border=true)](https://github.com/nitinsaini26/your-repo-name-2)
+-->
 
 </div>
 
-> 💡 **Check out my [repositories](https://github.com/nitinsaini26?tab=repositories) for more projects!**
+> 💡 **Check out my [repositories](https://github.com/nitinsaini26?tab=repositories) for all my projects!**
 
 ---
 
@@ -182,11 +188,13 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **AWS Certified Developer** — Associate level
-- 🥇 **Google Cloud Associate** — Cloud Engineer
-- 🏅 **Open Source Contributor** — Multiple repositories
+> 🗒️ *Update this section with your actual certifications. Add Credly or issuer links to verify credentials.*
+
+- 🥇 **[Your Certification Name]** — Issuing Organization · [Verify ↗](#)
+- 🥇 **[Your Certification Name]** — Issuing Organization · [Verify ↗](#)
+- 🏅 **Open Source Contributor** — Active contributions across multiple repositories
 - ⭐ **Hackathon Participant** — Built innovative solutions under pressure
-- 📜 **Full-Stack Web Development** — Certified Bootcamp Graduate
+- 📜 **[Your Course/Bootcamp]** — Platform / Institution
 
 ---
 
