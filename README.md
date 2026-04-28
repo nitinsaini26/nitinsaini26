@@ -17,19 +17,19 @@
 
 > *Analytical Data Analyst with strong foundation in SQL, Python, Excel, and Power BI, with basic working knowledge of Android development (Java/Kotlin, Android Studio). Experienced in transforming data into actionable insights and developing data-enabled mobile applications in collaborative, agile environments.*
 
-- 🎓 B.Tech in **Computer Science & Engineering** @ Tula's Institute, Dehradun *(2022–2026)*
-- 💼 **Data Analytics & AI Intern** @ VDK Eduventures Pvt. Ltd. (Drishti IAS) *(Jul–Sep 2025)*
-- 📊 Passionate about **Data Analytics**, **Business Intelligence**, and **AI/ML**
-- 🔍 Love turning raw data into **meaningful stories and insights**
-- 📱 Also exploring **mobile app development** with Java/Kotlin
-- 📍 Based in **Dehradun, India**
-- 📬 Reach me at: **nitinsaini7455@gmail.com** | 📞 **7455839218**
+-  B.Tech in **Computer Science & Engineering** @ Tula's Institute, Dehradun *(2022–2026)*
+-  **Data Analytics & AI Intern** @ VDK Eduventures Pvt. Ltd. (Drishti IAS) *(Jul–Sep 2025)*
+-  Passionate about **Data Analytics**, **Business Intelligence**, and **AI/ML**
+-  Love turning raw data into **meaningful stories and insights**
+-  Also exploring **mobile app development** with Java/Kotlin
+-  Based in **Dehradun, India**
+-  Reach me at: **nitinsaini7455@gmail.com** 
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
-### 💻 Programming & Querying
+###  Programming & Querying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)<br>
@@ -37,23 +37,23 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 📊 Data Visualization Tools
+###  Data Visualization Tools
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### ⚙️ Automation & Scripting
+###  Automation & Scripting
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 
-### 📋 Form Development
+###  Form Development
 ![Google Forms](https://img.shields.io/badge/Google%20Forms-7AB4F5?style=for-the-badge&logo=googleforms&logoColor=white)
 ![Microsoft Forms](https://img.shields.io/badge/Microsoft%20Forms-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### 🗂️ Data Handling
+###  Data Handling
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-### 🧠 Analytical Abilities
+###  Analytical Abilities
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6B6B?style=flat-square&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-4ECDC4?style=flat-square&logoColor=white)
 ![Insight Generation](https://img.shields.io/badge/Insight%20Generation-45B7D1?style=flat-square&logoColor=white)<br>
@@ -63,7 +63,7 @@
 
 ##  Experience
 
-### 🏢 Data Analytics and AI Intern
+###  Data Analytics and AI Intern
 **VDK Eduventures Pvt. Ltd. (Drishti IAS)** | *Jul 2025 – Sep 2025*
 - Analyzed large datasets to generate actionable insights using Python and Power BI
 - Built interactive dashboards to support data-driven decision making
@@ -186,17 +186,17 @@
 
 ---
 
-## 🌱 Currently Learning & Working On
+##  Currently Learning & Working On
 
-- 🤖 **Machine Learning** – Building predictive models and diving into AI/ML algorithms
-- 📊 **Advanced Power BI** – DAX formulas, custom visuals, and real-time dashboards
-- ☁️ **Cloud & Big Data** – Azure Data Services, data pipelines, and cloud analytics
-- 🐍 **Python for Data Science** – Pandas, NumPy, Matplotlib, Scikit-learn
-- 📱 **Mobile Development** – Flutter & Kotlin for data-enabled mobile apps
+-  **Machine Learning** – Building predictive models and diving into AI/ML algorithms
+-  **Advanced Power BI** – DAX formulas, custom visuals, and real-time dashboards
+-  **Cloud & Big Data** – Azure Data Services, data pipelines, and cloud analytics
+-  **Python for Data Science** – Pandas, NumPy, Matplotlib, Scikit-learn
+-  **Mobile Development** – Flutter & Kotlin for data-enabled mobile apps
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -204,29 +204,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitinsaini26)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinsaini7455@gmail.com)
 
-📞 **Phone:** +91 7455839218
 
 </div>
 
 ---
 
-## ⚡ Fun Facts
-
-- 📊 I get genuinely excited when I find a hidden pattern in a messy dataset
-- 🧩 I love solving puzzles — both in data and in real life
-- ☕ Best insights come with a cup of chai ☕
-- 🎯 My goal: Make data speak so everyone can understand it
-- 🌱 Always learning — because in data, there's always something new to discover
-- 🏏 Cricket fan who applies statistics to analyze match performance
-
----
-
 <div align="center">
 
-**⭐ If you find my work interesting, consider starring my repositories! ⭐**
+** If you find my work interesting, consider starring my repositories! ⭐**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nitinsaini26&color=blue&style=flat-square&label=Profile+Views)
-
-*"Without data, you're just another person with an opinion." – W. Edwards Deming*
 
 </div>
