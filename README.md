@@ -146,13 +146,13 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nitinsaini26&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nitinsaini26&theme=tokyonight&hide_border=true)](https://github.com/nitinsaini26)
 
 </div>
 
 <div align="center">
 
-[![Nitin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinsaini26&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nitin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinsaini26&theme=tokyo-night&hide_border=true)](https://github.com/nitinsaini26)
 
 </div>
 
